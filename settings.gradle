@@ -1,2 +1,4 @@
-rootProject.name = 'creating-website-ktor'
-
+rootProject.name = 'WebsiteByktor'
+include ":server:frontend"
+//include ":server:common"
+//include ":server:backend"
